@@ -197,6 +197,10 @@ Simulação realística de variações naturais de pH do solo. Permite testar to
 **🔍 Interpretação:**
 Sistema operando de forma autônoma com monitoramento de recursos. Display mostrando informações de diagnóstico em tempo real.
 
+### **🖼️ Print 6: Visualização do Serial Plotter**
+![Serial Plotter](screenshots/ESP32_Ploter2.jpg)
+
+
 
 ## ⚡ **OTIMIZAÇÕES DE MEMÓRIA IMPLEMENTADAS**
 
